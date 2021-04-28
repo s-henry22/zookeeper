@@ -117,6 +117,13 @@
         "hungry"
       ],
       "id": "11"
+    },
+    {
+      "name": "Spencer",
+      "species": "Lion",
+      "diet": "herbivore",
+      "personalityTraits": [],
+      "id": "12"
     }
   ]
 }
